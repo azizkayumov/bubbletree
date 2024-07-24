@@ -1,7 +1,18 @@
 [package]
 name = "bubbletree"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+rust-version = "1.74"
+description = "Rust implementation of Bubble-tree"
+readme = "README.md"
+documentation = "https://docs.rs/bubbletree"
+homepage = "https://github.com/azizkayumov/bubbletree"
+repository = "https://github.com/azizkayumov/bubbletree"
+license = "Apache-2.0"
+keywords = ["tree", "data-summarization"]
+categories = ["algorithms", "data-structures"]
+authors = ["Kayumov A.I. <kayumovabduaziz@gmail.com>"]
+exclude = ["./github"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
